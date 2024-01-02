@@ -1,4 +1,4 @@
-module github.com/go-curses/corelibs/convert
+module github.com/go-corelibs/convert
 
 go 1.21.0
 
