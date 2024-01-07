@@ -2,9 +2,9 @@
 [![codecov](https://codecov.io/gh/go-corelibs/convert/graph/badge.svg?token=AprX4K9F9K)](https://codecov.io/gh/go-corelibs/convert)
 [![Go Report Card](https://goreportcard.com/badge/github.com/go-corelibs/convert)](https://goreportcard.com/report/github.com/go-corelibs/convert)
 
-# go-corelibs/convert - convert things to other forms of the same thing
+# convert - convert things to other forms of the same thing
 
-convert is a packge for converting things like integers into roman numerals.
+convert is a package for converting things like integers into roman numerals.
 
 # Installation
 
@@ -12,7 +12,7 @@ convert is a packge for converting things like integers into roman numerals.
 > go get github.com/go-corelibs/convert@latest
 ```
 
-# Description
+# Examples
 
 ## ToLetters, ToRoman
 
